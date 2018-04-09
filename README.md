@@ -1,6 +1,6 @@
 # Shellix
 
- Mr. **Shell*don Cooper Caught working on Unix
+ 
 
 ![](https://raw.githubusercontent.com/prateekiiest/Shellix/master/sheldon_comparisons.jpg)
 
